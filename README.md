@@ -83,15 +83,16 @@ After training, check `results/comparison.png` to see how your generated images 
 3. To generate: start with random noise, let the AI clean it up
 4. Result: a realistic-looking geological cross-section
 
-## Citation
+## How to Cite This Project
 
-If you use this in research:
+If you use this code in your research or projects, please mention it like this:
 
-```bibtex
-@software{seismic_diffusion,
-  title = {Seismic Diffusion Model for Velocity Synthesis},
-  year = {2024}
-}
-```
+**Plain text:**
+> Mohit (2026). Seismic Diffusion Model for Velocity Synthesis. GitHub repository. https://github.com/Mo-HIIT/Seismic-diffusion-model
 
-Built with PyTorch. Dataset from OpenFWI.
+**Or simply:**
+> This work uses the seismic diffusion model by Mohit, available at https://github.com/Mo-HIIT/Seismic-diffusion-model
+
+## Acknowledgments
+
+Built with PyTorch. Trained on the OpenFWI CurveVel dataset.
