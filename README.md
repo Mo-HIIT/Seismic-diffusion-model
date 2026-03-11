@@ -39,6 +39,7 @@ pip install numpy matplotlib tqdm
 ### 2. Get the Data
 
 Download the OpenFWI CurveVel dataset and put the .npy files in `data/raw/CurveVel/`.
+link :- "  https://drive.google.com/drive/folders/1AL7z9TQVgzUdv3yrHB6f_wP2TRvVTKD0?usp=drive_link  "
 
 ### 3. Run the Project
 
